@@ -9,3 +9,5 @@ These pojects are:
 5. Palette: use QPalette class to adjust different parts' color of a window; 
 6. Greedy Snake: a classical game on computer, use direction key on the keyboard to control sanke's drection. 
 
+Greedy Snake is what I focused on recently which requires the knowledge of various class of Qt and  aslo a clear mind to design the program. It can be downloaded and build on  platforms with Windows, macos or Linux Systems as long as you have Qt5. The zip file is the game and should be able to run directly on Windows. 
+
